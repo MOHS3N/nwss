@@ -1,2 +1,3 @@
-nws
+## NWS
+# Nixy Wordpress Slider Plugin
 ===
