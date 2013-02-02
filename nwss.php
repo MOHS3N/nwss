@@ -1,4 +1,5 @@
-<?/**
+<?php
+/**
 Plugin Name: NWSS
 Plugin URI: http://www.mohs3n.com/nwss
 Description: Free WordPress Slide Show Plugin
