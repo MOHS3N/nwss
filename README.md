@@ -15,7 +15,7 @@ Mohsen Niyazdel.H    [@niyazdel](http://twitter.com/niyazdel) , [Github](http://
     * [Zepto](http://zeptojs.com/)
 *  [PHP (Engine)](http://www.php.net)
 
-#### Sponsor :
+#### Investor :
  [Ariaz Devs Inc.](http://www.ariazdevs.com)
 #### Project Start Date :
 Saturday Feb 02, 2013
