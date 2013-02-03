@@ -13,6 +13,7 @@ Mohsen Niyazdel.H    [@niyazdel](http://twitter.com/niyazdel) , [Github](http://
     * [jquery](http://www.jquery.com)
     * [Modernizr](http://modernizr.com/)
     * [Zepto](http://zeptojs.com/)
+    * [HTML5 Shiv](http://paulirish.com/2011/the-history-of-the-html5-shiv/)
 *  [PHP (Engine)](http://www.php.net)
 
 #### Investor :
